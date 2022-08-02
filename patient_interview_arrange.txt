@@ -1,0 +1,529 @@
+{
+	"consultation_content": {
+		"consultation_item": [
+			"矯正歯科治療"
+		],
+		"consultation_item_other": "",
+		"points_symptoms": [
+			{
+				"part": "下顎",
+				"part_detail": "下顎全体",
+				"dentition_number": [],
+				"symptoms": "ガタガタした歯並びや八重歯（叢生）",
+				"symptoms_other": "",
+				"consultation_content": "永久歯が入り切らず内側にはえてしまった歯があり、重なっている歯もあります。キレイに並ぶよう治療したいです。"
+			},
+			{
+				"part": "下顎",
+				"part_detail": "下顎全体",
+				"dentition_number": [],
+				"symptoms": "ガタガタした歯並びや八重歯（叢生）",
+				"symptoms_other": "",
+				"consultation_content": "下の永久歯が入りきらず、内側に生えてしまっており、重なっている歯もあります。キレイに並ぶよう治療したいです。"
+			}
+		],
+		"points_symptoms_index": 0
+	},
+	"interview_sheet": [
+		{
+			"question": 1,
+			"answer": "はい",
+			"items": {
+				"details": [
+					{
+						"title": "いつ頃",
+						"content": "一ヶ月前ほど"
+					},
+					{
+						"title": "医院名",
+						"content": "KI歯科"
+					}
+				]
+			}
+		},
+		{
+			"question": 2,
+			"answer": "いいえ",
+			"items": {
+				"details": [
+					{
+						"title": "いつ頃",
+						"content": ""
+					},
+					{
+						"title": "症状",
+						"content": ""
+					},
+					{
+						"title": "矯正装置",
+						"content": []
+					},
+					{
+						"title": "その他",
+						"content": ""
+					}
+				]
+			}
+		},
+		{
+			"question": 3,
+			"answer": "いいえ",
+			"items": {
+				"details": [
+					{
+						"title": "金属アレルギー",
+						"content": []
+					},
+					{
+						"title": "金属名",
+						"content": ""
+					},
+					{
+						"title": "薬アレルギー",
+						"content": []
+					},
+					{
+						"title": "薬品名",
+						"content": ""
+					},
+					{
+						"title": "花粉症",
+						"content": []
+					},
+					{
+						"title": "発症時期",
+						"content": ""
+					},
+					{
+						"title": "原因植物",
+						"content": ""
+					},
+					{
+						"title": "その他のアレルギー",
+						"content": []
+					},
+					{
+						"title": "アレルギー物質",
+						"content": ""
+					}
+				]
+			}
+		},
+		{
+			"question": 4,
+			"answer": "いいえ",
+			"items": {
+				"details": [
+					{
+						"title": "いつ頃",
+						"content": ""
+					},
+					{
+						"title": "選択結果",
+						"content": []
+					},
+					{
+						"title": "その他",
+						"content": ""
+					}
+				]
+			}
+		},
+		{
+			"question": 5,
+			"answer": "いいえ",
+			"items": {
+				"details": [
+					{
+						"title": "いつ頃",
+						"content": ""
+					},
+					{
+						"title": "部位",
+						"content": ""
+					},
+					{
+						"title": "対処法",
+						"content": ""
+					}
+				]
+			}
+		},
+		{
+			"question": 6,
+			"answer": "いいえ",
+			"items": {
+				"details": [
+					{
+						"title": "いつ頃",
+						"content": ""
+					},
+					{
+						"title": "選択肢",
+						"content": []
+					},
+					{
+						"title": "その他",
+						"content": ""
+					}
+				]
+			}
+		},
+		{
+			"question": 7,
+			"answer": "いいえ",
+			"items": {
+				"details": [
+					{
+						"title": "具体的に",
+						"content": ""
+					}
+				]
+			}
+		},
+		{
+			"question": 8,
+			"answer": "いいえ",
+			"items": {
+				"details": [
+					{
+						"title": "選択肢",
+						"content": []
+					}
+				]
+			}
+		},
+		{
+			"question": 9,
+			"items": {
+				"details": [
+					{
+						"title": "仰向け",
+						"content": []
+					},
+					{
+						"title": "うつ伏せ",
+						"content": [
+							"うつ伏せ"
+						]
+					},
+					{
+						"title": "頭の向き",
+						"content": ""
+					},
+					{
+						"title": "横向き",
+						"content": []
+					},
+					{
+						"title": "向き",
+						"content": ""
+					},
+					{
+						"title": "様々寝相が変わる",
+						"content": [
+							"様々寝相が変わる"
+						]
+					}
+				]
+			}
+		},
+		{
+			"question": 10,
+			"answer": "はい",
+			"items": [
+				{
+					"details": [
+						{
+							"title": "続柄",
+							"content": "母"
+						},
+						{
+							"title": "症状",
+							"content": "歯並びが悪い"
+						}
+					]
+				}
+			]
+		},
+		{
+			"question": 11,
+			"answer": "いいえ",
+			"items": [
+				{
+					"details": [
+						{
+							"title": "診断名",
+							"content": ""
+						},
+						{
+							"title": "いつ頃",
+							"content": ""
+						},
+						{
+							"title": "治療内容",
+							"content": ""
+						},
+						{
+							"title": "治療状況",
+							"content": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"question": 12,
+			"answer": "いいえ",
+			"items": [
+				{
+					"details": [
+						{
+							"title": "病院名",
+							"content": ""
+						},
+						{
+							"title": "受診科名",
+							"content": ""
+						},
+						{
+							"title": "主治医",
+							"content": ""
+						},
+						{
+							"title": "診断名・症状",
+							"content": ""
+						}
+					]
+				}
+			]
+		},
+		{
+			"question": 13,
+			"answer": "いいえ",
+			"items": [
+				{
+					"details": [
+						{
+							"title": "診断名",
+							"content": ""
+						},
+						{
+							"title": "部位",
+							"content": ""
+						},
+						{
+							"title": "状態",
+							"content": ""
+						}
+					]
+				}
+			]
+		},
+		{
+			"question": 14,
+			"answer": "いいえ",
+			"items": {
+				"details": [
+					{
+						"title": "選択肢",
+						"content": []
+					},
+					{
+						"title": "その他",
+						"content": ""
+					}
+				]
+			}
+		},
+		{
+			"question": 15,
+			"answer": "いいえ",
+			"items": {
+				"details": [
+					{
+						"title": "選択肢",
+						"content": []
+					}
+				]
+			}
+		},
+		{
+			"question": 16,
+			"answer": "いいえ",
+			"item_common": {
+				"details": [
+					{
+						"title": "選択肢",
+						"content": []
+					},
+					{
+						"title": "その他",
+						"content": ""
+					}
+				]
+			},
+			"items": [
+				{
+					"details": [
+						{
+							"title": "診断名",
+							"content": ""
+						},
+						{
+							"title": "服薬量1",
+							"content": ""
+						},
+						{
+							"title": "服薬量2",
+							"content": ""
+						}
+					]
+				}
+			]
+		},
+		{
+			"question": 17,
+			"answer": "いいえ",
+			"items": {
+				"details": [
+					{
+						"title": "一日量",
+						"content": ""
+					}
+				]
+			}
+		},
+		{
+			"question": 18,
+			"answer": "いいえ",
+			"items": {
+				"details": [
+					{
+						"title": "よく飲まれるお酒",
+						"content": ""
+					},
+					{
+						"title": "一日量1",
+						"content": ""
+					},
+					{
+						"title": "一日量2",
+						"content": ""
+					}
+				]
+			}
+		},
+		{
+			"question": 19,
+			"items": {
+				"details": [
+					{
+						"title": "身長",
+						"content": "131"
+					},
+					{
+						"title": "体重",
+						"content": "29"
+					}
+				]
+			}
+		},
+		{
+			"question": 20,
+			"items": {
+				"details": [
+					{
+						"title": "血液型",
+						"content": "不明"
+					}
+				]
+			}
+		},
+		{
+			"question": 21,
+			"items": {
+				"details": [
+					{
+						"title": "血圧の状態",
+						"content": "不明"
+					},
+					{
+						"title": "最低",
+						"content": ""
+					},
+					{
+						"title": "最高",
+						"content": ""
+					}
+				]
+			}
+		},
+		{
+			"question": 22,
+			"items": {
+				"details": [
+					{
+						"title": "初潮年齢1",
+						"content": ""
+					},
+					{
+						"title": "初潮年齢2",
+						"content": ""
+					}
+				]
+			}
+		},
+		{
+			"question": 23,
+			"answer": "いいえ",
+			"items": {
+				"details": [
+					{
+						"title": "選択肢",
+						"content": []
+					},
+					{
+						"title": "その他",
+						"content": ""
+					}
+				]
+			}
+		},
+		{
+			"question": 24,
+			"answer": "はい",
+			"items": {
+				"details": [
+					{
+						"title": "受診時期1",
+						"content": "令和4"
+					},
+					{
+						"title": "受診時期2",
+						"content": "7"
+					},
+					{
+						"title": "受診時期3",
+						"content": ""
+					},
+					{
+						"title": "受診時期4",
+						"content": ""
+					},
+					{
+						"title": "治療内容",
+						"content": "虫歯治療"
+					}
+				]
+			}
+		}
+	],
+	"others": {
+		"plan_to_move": "いいえ",
+		"when_to_move1": "",
+		"when_to_move2": "",
+		"moving_destination": "",
+		"other_requests": ""
+	}
+}
