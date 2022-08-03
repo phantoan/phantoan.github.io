@@ -17,7 +17,7 @@ def normalize_json( obj):
             for k, v in value.items():
                 new_data["consultation_content" + key + "_" + k] = v
         else:
-            new_data["consultation_content" + "_" + key] = json.dumps(value)
+            new_data["consultation_content" + "_" + key] = json.dumps(value,ensure_ascii=False)
     if "consultation_content_points_symptoms_index" not in new_data:
         new_data["consultation_content_points_symptoms_index"] = ""
 
@@ -29,14 +29,14 @@ def normalize_json( obj):
         if "answer" not in sheet:
             new_data["interview_sheet" + "_" + str(question) + "_" + "answer"] = ""
         else:
-            new_data["interview_sheet" + "_" + str(question) + "_" + "answer"] = json.dumps(sheet["answer"])
+            new_data["interview_sheet" + "_" + str(question) + "_" + "answer"] = json.dumps(sheet["answer"], ensure_ascii=False)
         if "item_common" not in sheet:
             new_data["interview_sheet" + "_" + str(question) + "_" + "item_common"] = ""
         else:
-            new_data["interview_sheet" + "_" + str(question) + "_" + "item_common"] = json.dumps(sheet["item_common"])
+            new_data["interview_sheet" + "_" + str(question) + "_" + "item_common"] = json.dumps(sheet["item_common"], ensure_ascii=False)
         if "items" in sheet:
             new_data["interview_sheet" + "_" + str(question) + "_" + "items" + "_" + "details"] = json.dumps(
-                sheet["items"])
+                sheet["items"], ensure_ascii=False)
         else:
             new_data["interview_sheet" + "_" + str(question) + "_" + "items" + "_" + "details"] = ""
 
