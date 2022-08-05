@@ -51,7 +51,8 @@ def normalize_json( obj):
 #  transform data
 def transform_data(obj):
     csv = obj.value.split(',', 2)
-    interview_json = json.loads(csv[2][1:-1])
+    normalized_string = x[2][1:-1].replace("\\n", " ")
+    interview_json = json.loads(normalized_string)
     newData = normalize_json(interview_json)
     newData["sf_user_id"] = csv[0]
     newData["updated_at"] = csv[1]
